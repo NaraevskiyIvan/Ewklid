@@ -1,0 +1,144 @@
+@media (max-width: 920px) {
+  .nav {
+    height: 732px;
+  }
+
+  .form-active {
+    top: 4px;
+  }
+
+  .search-form__input {
+    max-width: 179px;
+  }
+
+  .hero {
+    height: 662px;
+    margin-bottom: 81px;
+  }
+
+  .header__container {
+    height: 70px;
+  }
+
+  .hero-content__hedding {
+    font-size: 50px;
+    line-height: 61px;
+    margin-bottom: 15px;
+  }
+
+  .hero-content__text {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  .hero-content {
+    left: 41px;
+  }
+
+  .hero-content {
+    max-width: 588px;
+  }
+
+  .swiper-horizontal > .swiper-pagination-bullets,
+  .swiper-pagination-bullets.swiper-pagination-horizontal,
+  .swiper-pagination-custom,
+  .swiper-pagination-fraction {
+    bottom: 26px;
+  }
+
+  .about-content__left {
+    min-height: 648px;
+  }
+
+  .about-left__inner {
+    padding: 33px 40px 32px 42px;
+  }
+
+  .about-left__text {
+    max-width: 366px;
+    padding-right: 0;
+    font-size: 16px;
+  }
+
+  .about-right__item {
+    background-position: left 77px center;
+    padding: 36px 25px 37px 170px;
+    background-size: 114px 99px;
+    min-height: 235px;
+  }
+
+  .item-top {
+    background-position: left 39px top 68px;
+  }
+
+  .item-bot {
+    background-position: left 39px top 68px;
+  }
+
+  .work__content {
+    flex-direction: column-reverse;
+  }
+
+  .work-right,
+  .work-left {
+    width: 100%;
+  }
+
+  .work-right {
+    margin-bottom: 35px;
+  }
+
+  .work__list {
+    justify-content: space-between;
+    margin-bottom: 40px;
+  }
+
+  .work-left__text {
+    max-width: 100%;
+  }
+
+  .questions__title {
+    max-width: 581px;
+    line-height: 32px;
+    margin-right: 50px;
+  }
+
+  .questions {
+    padding-bottom: 69px;
+  }
+
+  .questions__heading {
+    margin-bottom: 39px;
+  }
+
+  .questions__wrapper {
+    padding: 33px 0;
+  }
+
+  .footer {
+    padding-top: 55px;
+    padding-bottom: 46px;
+  }
+
+  .footer__container {
+    flex-direction: column-reverse;
+  }
+
+  .footer__right {
+    width: 86%;
+    margin-bottom: 38px;
+  }
+
+  .form__btn {
+    padding: 20px 36px;
+    margin-right: 22px;
+  }
+
+  .social__list {
+    padding-top: 12px;
+  }
+
+  .footer__list {
+    display: none;
+  }
+}
